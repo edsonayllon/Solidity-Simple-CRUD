@@ -11,3 +11,5 @@ tags:
 # Solidity-Simple-CRUD
 
 Perform create, read, update, delete operations using Ethereum smart contracts.
+
+Placeholder (work in progress).
