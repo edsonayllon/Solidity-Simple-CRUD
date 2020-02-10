@@ -1,6 +1,6 @@
 ---
 author: Edson Ayllon
-category: smart contract
+category: functionality
 tags:
 - Solidity
 - Ethereum
