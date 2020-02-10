@@ -9,7 +9,7 @@ status: not started
 twitter: https://twitter.com/relativeread
 ---
 
-## Modular 40-2019
+## Modular 40-2020
 
 # Solidity-Simple-CRUD
 
